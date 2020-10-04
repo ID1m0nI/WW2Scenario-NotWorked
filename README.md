@@ -1,2 +1,2 @@
 # WW2Scenario-NotWorked
-WW2 Scenarion for Unciv
+WW2 Scenario for Unciv
